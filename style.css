@@ -145,6 +145,10 @@ a.gitlab:hover{
   color:chocolate;
 }
 
+a.blog:hover{
+  color: mediumblue;
+}
+
 .page-sidebar{
   font-family:  Open Sans Condensed;
   font-size: 1em;
