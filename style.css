@@ -141,6 +141,10 @@ a.twitter:hover{
   color:#3498db;
 }
 
+a.gitlab:hover{
+  color:chocolate;
+}
+
 .page-sidebar{
   font-family:  Open Sans Condensed;
   font-size: 1em;
